@@ -1,1 +1,1 @@
-class StaticController < ActiveRecord::Base
+class StaticController < ApplicationController
