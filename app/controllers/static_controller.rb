@@ -1,0 +1,1 @@
+class StaticController < ActiveRecord::Base
