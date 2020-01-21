@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
-  def about
+  def notabout
     render "some_page"
-end
+  end
 end
